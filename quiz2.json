@@ -1,56 +1,88 @@
 {
-    "quizID": "Corona",
+    "quizID": "Star Wars",
     "quizMetaData":
     {
-        "title": "Corona Virus Knowledge",
-        "imageURI": "https://images.unsplash.com/photo-1583324113626-70df0f4deaab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+        "title": "Star Wars Knowledge",
+        "imageURI": "https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/b6d0cc66-d8b7-42c0-985d-48c32d3d8de6"
 
     },
     "quizContent":
     [ 
-        {   "question": "How long does the covid-19 survive outside the body??",
+        {   "question": "When did the first Star Wars movie come out?",
             "answers": [{
-                    "answer": "A week in the air and on surfaces",
+                "answer": "1979",
+                "feedback": false
+            },
+            {
+                "answer": "1977",
+                "feedback": true
+            },
+            {
+                "answer": "1985",
+                "feedback": false
+            },                
+            {
+                "answer": "1982",
+                "feedback": false
+            }
+            ]
+        },
+        {   "question": "What is the name of the Star Wars movie released in 1999?",
+            "answers": [
+                {
+                    "answer": "The Force Awakens",
                     "feedback": false
                 },
                 {
-                    "answer": "Several hours to days",
+                    "answer": "The Phantom Menace",
                     "feedback": true
                 },
                 {
-                    "answer": "Up to two and a half weeks",
+                    "answer": "Revenge of the Sith",
+                    "feedback": false
+                },
+                {
+                    "answer": "A New Hope",
                     "feedback": false
                 }
             ]
         },
-        {   "question": "What’s more important for preventing infection?",
+        {   "question": "Who is Darth Vader?",
             "answers": [{
-                    "answer": "Frequent hand-washing",
+                    "answer": "Obi-Wan Kenobi",
+                    "feedback": false
+                },
+                {
+                    "answer": "Anakin Skywalker",
                     "feedback": true
                 },
                 {
-                    "answer": "Wearing a face mask",
+                    "answer": "Luke Skywalker",
+                    "feedback": false
+                },
+                {
+                    "answer": "Qui-Gonn Jinn",
                     "feedback": false
                 }
             ]
-        },
-        {   "question": "Who’s at highest risk of developing severe Covid-19 disease?",
+        }
+        ,{   "question": "Who trained Anakin Skywalker",
             "answers": [{
-                    "answer": "Children",
-                    "feedback": false
-                },
-                {
-                    "answer": "People over 60 years of age",
-                    "feedback": true
-                },
-                {
-                    "answer": "Pregnant women",
-                    "feedback": false
-                },
-                {
-                    "answer": "Those with existing medical conditions",
-                    "feedback": false
-                }
+                "answer": "Sheev Palpatine",
+                "feedback": false
+            },
+            {
+                "answer": "Obi-Wan Kenobi",
+                "feedback": true
+            },
+            {
+                "answer": "Mace Windu",
+                "feedback": false
+            },                
+            {
+                "answer": "Luke Skywalker",
+                "feedback": false
+            }
             ]
         }
     ]

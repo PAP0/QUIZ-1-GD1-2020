@@ -1,69 +1,69 @@
 {
-    "quizID": "Bla Bla Questions",
+    "quizID": "Death Star Questions",
     "quizMetaData":
     {
-        "title": "Bla Bla Knowledge",
-        "imageURI": "https://sd.keepcalms.com/i-w600/keep-calm-and-dont-ask-stupid-questions.jpg"
+        "title": "Death Star Knowledge",
+        "imageURI": "https://www.thesun.co.uk/wp-content/uploads/2020/03/7-1.png"
 
     },
     "quizContent":		
 		[
 			{
-				"question": "Wie ontwierp de Eiffeltoren?",
+				"question": "Who created the Death Star?",
 				"answers": [{
-						"answer": "Eiffel",
+						"answer": "The Empire",
 						"feedback": true
 					},
 					{
-						"answer": "Berlage",
+						"answer": "The Rebel Alliance",
 						"feedback": false
 					},
 					{
-						"answer": "Edison",
+						"answer": "The Jedi Council",
 						"feedback": false
 					},
 					{
-						"answer": "James Watt",
+						"answer": "CIS",
 						"feedback": false
 					}
 				]
 			},
 			{
-				"question": "In welke kleuren speelt blauw-wit?",
+				"question": "Who destroyed the Death Star?",
 				"answers": [{
-						"answer": "blauw en wit",
+						"answer": "The Republic",
+						"feedback": false
+					},
+					{
+						"answer": "The Rebel Alliance",
 						"feedback": true
 					},
 					{
-						"answer": "groen en geel",
+						"answer": "The Jedi Council",
 						"feedback": false
 					},
 					{
-						"answer": "rood en wit",
-						"feedback": false
-					},
-					{
-						"answer": "rood en blauw",
+						"answer": "The Resistance",
 						"feedback": false
 					}
 				]
 			},
 			{
-				"question": "Wat is de voornaam van Eddy Merckx?",
+				"question": "What was the Death Star Capable of?",
 				"answers": [{
-						"answer": "Jelle",
+						"answer": "Sucking up whole suns to gather power",
 						"feedback": false
 					},
 					{
-						"answer": "Ed",
+						"answer": "Destroying star systems",
 						"feedback": false
 					},
 					{
-						"answer": "Eddy",
+						"answer": "Destroying whole planets",
 						"feedback": true
 					},
 					{
-						"answer": "Gerrit",
+						"answer": "Blowing up galaxies",
 						"feedback": false
 					}
 				]
